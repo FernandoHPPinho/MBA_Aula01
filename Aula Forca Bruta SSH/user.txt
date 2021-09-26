@@ -1,0 +1,10 @@
+root
+tomcat
+tomcat$
+user
+sys
+postgres
+service
+klog
+msfadmin
+
